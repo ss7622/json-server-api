@@ -1,0 +1,12 @@
+{
+  "name": "json-server-api",
+  "version": "1.0.0",
+  "description": "배포용 json-server API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
